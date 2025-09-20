@@ -9,8 +9,8 @@ on:
         type: choice
         default: all
         options:
-          # - smoke
-          # - regression
+          - smoke
+          - regression
           - all
 
 jobs:
